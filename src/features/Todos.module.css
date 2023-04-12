@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+}
+
+.todos {
+  width: 25%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.todo {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.form {
+  text-align: center;
+  margin: 5px 0 10px 0;
+}
